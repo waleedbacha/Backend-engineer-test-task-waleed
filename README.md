@@ -1,4 +1,4 @@
-# Supabase Backend Test – Waleed Badshah
+# Backend Test – Waleed Badshah
 
 This project contains the database schema and Row Level Security (RLS) setup for the backend engineer test.
 
